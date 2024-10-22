@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @NITHIN0324103383010
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-NITHIN0324103383010/NITHIN0324103383010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+body{
+    background-color:#B9E5E8;
+}
+h1
+{
+    text-align: center;
+}
+p{
+    text-align: end;
+    text-align: top;
+}
+#POSTER{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: #493628;
+    font-family: "Playwrite GB S", cursive;
+}
+#QUOTE
+{
+    font-size: large;
+    font-weight: 1000;
+    font-size: 10;
+    color:#243642;
+}
